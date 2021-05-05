@@ -1,5 +1,5 @@
 syntax = "proto3";
-option go_package = "./pb";
+option go_package = "github.com/pranotobudi/Go-TechSchool-gRPC/proto";
 package proto;
 
 message Memory {
